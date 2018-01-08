@@ -11,6 +11,7 @@ print('%x' % 3124)
 print(0xd11)
 print(0xc34)
 
+
 b = b'china\r\nus'
 print(type(b))
 s = b.decode()
